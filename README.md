@@ -13,4 +13,4 @@
 >
 > ----------
 > **Do poprawnego działania potrzebna modyfikacja**
-> [**StillCraft Mod**] (https://github.com/Kerakso/stillcraftmod)
+[**StillCraft Mod**] (https://github.com/Kerakso/stillcraftmod)
