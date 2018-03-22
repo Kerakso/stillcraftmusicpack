@@ -12,5 +12,4 @@
 > i zaznacz mod o nazwie StillCraft Music Pack
 >
 > ----------
-> **Do poprawnego działania potrzebna modyfikacja**
-[**StillCraft Mod**] (https://github.com/Kerakso/stillcraftmod)
+> **Do poprawnego działania potrzebna modyfikacja StillCraft**
