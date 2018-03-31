@@ -282,6 +282,19 @@ music = {
 ################
 
 music = {
+	song = "morsunist_peace_1"
+
+	chance = {
+		modifier = {
+			factor = 3
+
+			has_war = 3
+			tag = IMM
+		}
+	}
+}
+
+music = {
 	song = "morsunist_war_1"
 	
 	chance = {

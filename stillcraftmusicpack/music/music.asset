@@ -171,3 +171,8 @@ music = {
 	file = "imm_maf_march.ogg"
 	volume = 0.65
 }
+music = {
+	name = "morsunist_peace_1"
+	file = "imm_anthem.ogg"
+	volume = 0.65
+}
